@@ -1,0 +1,2 @@
+# Fatureipy-
+robô investidor 
